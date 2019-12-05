@@ -1,10 +1,15 @@
 # setup 
 
 -composer install.
+
 -your copy .env-example to .env.
+
 -php artisan key:generate.
+
 -API_KEY = 'your api key in runCloud'.
+
 -API_SECRET = 'your api secret in runCloud'.
+
 -ASSET_URL=https://manage.runcloud.io/api/v2.
 
 
